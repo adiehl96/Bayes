@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/308859242.svg)](https://zenodo.org/badge/latestdoi/308859242)
 # Bayesian Inference Program
 A program with multiple inference paradigms for bayesian networks.
 
